@@ -1,6 +1,6 @@
 'use strict';
 
-var a = 5;
+var a = 55;
 console.log(a);
 
 let persone={
